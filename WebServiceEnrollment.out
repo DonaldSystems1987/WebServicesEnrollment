@@ -1,0 +1,3 @@
+﻿{"Name":"WebServiceEnrollment","HostName":"LAPTOP-RCVBPFJ5","ApiKey":"N/A","Url":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":158,"Ip":"172.30.96.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-07 10:35:01","Version":null}
+{"Name":"WebServiceEnrollment","HostName":"LAPTOP-RCVBPFJ5","ApiKey":"N/A","Url":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":310,"Ip":"172.30.96.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-08 08:47:20","Version":null}
+{"Name":"WebServiceEnrollment","HostName":"LAPTOP-RCVBPFJ5","ApiKey":"N/A","Url":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":20,"Ip":"172.30.96.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-08 08:48:07","Version":null}

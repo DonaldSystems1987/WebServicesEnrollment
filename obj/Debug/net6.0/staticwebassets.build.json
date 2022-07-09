@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rjhVgU39UWkc8M9G51tOfqHwDSI+sjKHBs/Pl/7MJOk=",
+  "Source": "WebServicesEnrollment",
+  "BasePath": "_content/WebServicesEnrollment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
